@@ -7,10 +7,10 @@ UIButton, but bouncier and capable for use with your own icons and attributed te
 
 Simply add the following to your `Podfile`
 
-    pod 'CINBouncyButton', '~>1.0.0'`
+    pod 'CINBouncyButton', '~>1.0.0'
 
-Video of what she looks like in action can be found here: https://github.com/MaxKramer/CINBouncyButton/blob/master/BouncyButton.mp4?raw=true
+Video of what she looks like in action can be found [here!](https://github.com/MaxKramer/CINBouncyButton/blob/master/BouncyButton.mp4?raw=true)
 
-Tacky Gif:
+Tacky Gif (Please see video instead!):
 
 ![Example](http://i.imgflip.com/8ss3c.gif)
