@@ -1,0 +1,180 @@
+TPods-Example-SVProgressHUD
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SVProgressHUD-prefix-dgkmmcgdtyedtydnjqkpgymzoxwr/Pods-Example-SVProgressHUD-prefix.pch.pch Pods-Example-SVProgressHUD-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SVProgressHUD-prefix-eaekyicvjlhapxhhwpmsiklgxgpl/Pods-Example-SVProgressHUD-prefix.pch.pch Pods-Example-SVProgressHUD-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Objects-normal/i386/Pods-Example-SVProgressHUD-dummy.o /Users/Max/Desktop/CINBouncyButton/Example/Pods/Pods-Example-SVProgressHUD-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Objects-normal/i386/SVProgressHUD.o /Users/Max/Desktop/CINBouncyButton/Example/Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/libPods-Example-SVProgressHUD.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531ED3710000000000A90C10
+t1394529137
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000531ED3720000000000649DB0
+t1394529138
+s6593968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534723F50000000000000198
+t1397171189
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531ED37A00000000000003B4
+t1394529146
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531ED37D000000000000019E
+t1394529149
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531ED38C0000000000000ADC
+t1394529164
+s2780
+
+N/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Objects-normal/i386/Pods-Example-SVProgressHUD-dummy.o
+t1400184409
+s3528
+
+N/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Objects-normal/i386/Pods-Example-SVProgressHUD.LinkFileList
+c0000000053751E58000000000000015D
+t1400184408
+s349
+
+N/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Objects-normal/i386/SVProgressHUD.o
+t1400184409
+s162984
+
+N/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SVProgressHUD-prefix-dgkmmcgdtyedtydnjqkpgymzoxwr/Pods-Example-SVProgressHUD-prefix.pch.pch
+t1400184408
+s122296
+
+N/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SVProgressHUD-prefix-eaekyicvjlhapxhhwpmsiklgxgpl/Pods-Example-SVProgressHUD-prefix.pch.pch
+t1400184409
+s118024
+
+N/Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/libPods-Example-SVProgressHUD.a
+t1400184409
+s168384
+
+N/Users/Max/Desktop/CINBouncyButton/Example/Pods/Pods-Example-SVProgressHUD-dummy.m
+c0000000053751DCE000000000000009C
+t1400184270
+s156
+
+N/Users/Max/Desktop/CINBouncyButton/Example/Pods/Pods-Example-SVProgressHUD-prefix.pch
+c0000000053751DCE0000000000000055
+t1400184270
+s85
+
+N/Users/Max/Desktop/CINBouncyButton/Example/Pods/Pods-Example-environment.h
+c0000000053751DCE000000000000028D
+t1400184270
+s653
+
+N/Users/Max/Desktop/CINBouncyButton/Example/Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.h
+c0000000053751DCD0000000000000B41
+t1400184269
+s2881
+
+N/Users/Max/Desktop/CINBouncyButton/Example/Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.m
+c0000000053751DCD000000000000851C
+t1400184269
+s34076
+
+CBuild AST from /Users/Max/Desktop/CINBouncyButton/Example/Pods/Pods-Example-SVProgressHUD-dummy.m
+r0
+
+CBuild AST from /Users/Max/Desktop/CINBouncyButton/Example/Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0fb88a8c5625b941^10ea8a8c5625b941^---0#1#1#--18"Check dependencies36"C04BB53B-7CDE-418F-B474-05D91B10E7FF-
+
+CCompileC /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Objects-normal/i386/Pods-Example-SVProgressHUD-dummy.o /Users/Max/Desktop/CINBouncyButton/Example/Pods/Pods-Example-SVProgressHUD-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421877209.528884
+e421877209.555839
+r1
+xCompileC
+x/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Objects-normal/i386/Pods-Example-SVProgressHUD-dummy.o
+x/Users/Max/Desktop/CINBouncyButton/Example/Pods/Pods-Example-SVProgressHUD-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Max/Desktop/CINBouncyButton/Example/Pods/Pods-Example-SVProgressHUD-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/Max/Desktop/CINBouncyButton/Example/Pods/Pods-Example-SVProgressHUD-dummy.m295"CompileC /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Objects-normal/i386/Pods-Example-SVProgressHUD-dummy.o Pods-Example-SVProgressHUD-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera77987d95525b941^274e8ed95525b941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/Max/Desktop/CINBouncyButton/Example/Pods/Pods-Example-SVProgressHUD-dummy.m0000000000000000^4281"CompileC /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Objects-normal/i386/Pods-Example-SVProgressHUD-dummy.o Pods-Example-SVProgressHUD-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Max/Desktop/CINBouncyButton/Example/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Max/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Pods-Example-SVProgressHUD-generated-files.hmap -I/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Pods-Example-SVProgressHUD-own-target-headers.hmap -I/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Pods-Example-SVProgressHUD-all-target-headers.hmap -iquote /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Pods-Example-SVProgressHUD-project-headers.hmap -I/Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/include -I/Users/Max/Desktop/CINBouncyButton/Example/Pods/BuildHeaders -I/Users/Max/Desktop/CINBouncyButton/Example/Pods/BuildHeaders/SVProgressHUD -I/Users/Max/Desktop/CINBouncyButton/Example/Pods/Headers -I/Users/Max/Desktop/CINBouncyButton/Example/Pods/Headers/CINBouncyButton -I/Users/Max/Desktop/CINBouncyButton/Example/Pods/Headers/SVProgressHUD -I/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/DerivedSources/i386 -I/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/DerivedSources -F/Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator -include /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SVProgressHUD-prefix-dgkmmcgdtyedtydnjqkpgymzoxwr/Pods-Example-SVProgressHUD-prefix.pch -MMD -MT dependencies -MF /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Objects-normal/i386/Pods-Example-SVProgressHUD-dummy.d --serialize-diagnostics /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Objects-normal/i386/Pods-Example-SVProgressHUD-dummy.dia -c /Users/Max/Desktop/CINBouncyButton/Example/Pods/Pods-Example-SVProgressHUD-dummy.m -o /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Objects-normal/i386/Pods-Example-SVProgressHUD-dummy.o36"B8366D78-D7B4-4027-9926-DD6E39F65C21-
+b8242EDEF-AF9C-4F67-BD46-6BC66EA711E3
+
+CCompileC /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Objects-normal/i386/SVProgressHUD.o /Users/Max/Desktop/CINBouncyButton/Example/Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421877209.529163
+e421877209.665741
+r1
+xCompileC
+x/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Objects-normal/i386/SVProgressHUD.o
+x/Users/Max/Desktop/CINBouncyButton/Example/Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Max/Desktop/CINBouncyButton/Example/Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.m
+d/Users/Max/Desktop/CINBouncyButton/Example/Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/Max/Desktop/CINBouncyButton/Example/Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.m285"CompileC /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Objects-normal/i386/SVProgressHUD.o SVProgressHUD/SVProgressHUD/SVProgressHUD.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler768887d95525b941^f86faad95525b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/Max/Desktop/CINBouncyButton/Example/Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.m0000000000000000^4297"CompileC /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Objects-normal/i386/SVProgressHUD.o SVProgressHUD/SVProgressHUD/SVProgressHUD.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Max/Desktop/CINBouncyButton/Example/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Max/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Pods-Example-SVProgressHUD-generated-files.hmap -I/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Pods-Example-SVProgressHUD-own-target-headers.hmap -I/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Pods-Example-SVProgressHUD-all-target-headers.hmap -iquote /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Pods-Example-SVProgressHUD-project-headers.hmap -I/Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/include -I/Users/Max/Desktop/CINBouncyButton/Example/Pods/BuildHeaders -I/Users/Max/Desktop/CINBouncyButton/Example/Pods/BuildHeaders/SVProgressHUD -I/Users/Max/Desktop/CINBouncyButton/Example/Pods/Headers -I/Users/Max/Desktop/CINBouncyButton/Example/Pods/Headers/CINBouncyButton -I/Users/Max/Desktop/CINBouncyButton/Example/Pods/Headers/SVProgressHUD -I/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/DerivedSources/i386 -I/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/DerivedSources -F/Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -w -Xanalyzer -analyzer-disable-checker -include /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SVProgressHUD-prefix-eaekyicvjlhapxhhwpmsiklgxgpl/Pods-Example-SVProgressHUD-prefix.pch -MMD -MT dependencies -MF /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Objects-normal/i386/SVProgressHUD.d --serialize-diagnostics /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Objects-normal/i386/SVProgressHUD.dia -c /Users/Max/Desktop/CINBouncyButton/Example/Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.m -o /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Objects-normal/i386/SVProgressHUD.o36"FDF9327C-3F05-4311-9F77-4629BFAAC913-
+b8242EDEF-AF9C-4F67-BD46-6BC66EA711E3
+
+CLibtool /Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/libPods-Example-SVProgressHUD.a normal i386
+s421877209.666446
+e421877209.674514
+r1
+xLibtool
+x/Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/libPods-Example-SVProgressHUD.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Libtool /Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/libPods-Example-SVProgressHUD.a normal i386131"Libtool /Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/libPods-Example-SVProgressHUD.a normal i38647afaad95525b941^cdadacd95525b941^---0#0#1#--1115"Libtool /Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/libPods-Example-SVProgressHUD.a normal i386    cd /Users/Max/Desktop/CINBouncyButton/Example/Pods    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator -filelist /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Objects-normal/i386/Pods-Example-SVProgressHUD.LinkFileList -framework Foundation -framework QuartzCore -o /Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/libPods-Example-SVProgressHUD.a36"AEF4C7F4-B86A-4A5E-B7CF-470EDF83AD9A-
+b8242EDEF-AF9C-4F67-BD46-6BC66EA711E3
+
+CProcessPCH /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SVProgressHUD-prefix-dgkmmcgdtyedtydnjqkpgymzoxwr/Pods-Example-SVProgressHUD-prefix.pch.pch Pods-Example-SVProgressHUD-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421877208.656985
+e421877208.693190
+r1
+xProcessPCH
+x/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SVProgressHUD-prefix-dgkmmcgdtyedtydnjqkpgymzoxwr/Pods-Example-SVProgressHUD-prefix.pch.pch
+xPods-Example-SVProgressHUD-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Max/Desktop/CINBouncyButton/Example/Pods/Pods-Example-SVProgressHUD-prefix.pch
+d/Users/Max/Desktop/CINBouncyButton/Example/Pods/Pods-Example-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Precompile Pods-Example-SVProgressHUD-prefix.pch303"ProcessPCH /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SVProgressHUD-prefix-dgkmmcgdtyedtydnjqkpgymzoxwr/Pods-Example-SVProgressHUD-prefix.pch.pch Pods-Example-SVProgressHUD-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere063a8d85525b941^4f74b1d85525b941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/Max/Desktop/CINBouncyButton/Example/Pods/Pods-Example-SVProgressHUD-prefix.pch0000000000000000^4112"ProcessPCH /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SVProgressHUD-prefix-dgkmmcgdtyedtydnjqkpgymzoxwr/Pods-Example-SVProgressHUD-prefix.pch.pch Pods-Example-SVProgressHUD-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Max/Desktop/CINBouncyButton/Example/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Max/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Pods-Example-SVProgressHUD-generated-files.hmap -I/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Pods-Example-SVProgressHUD-own-target-headers.hmap -I/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Pods-Example-SVProgressHUD-all-target-headers.hmap -iquote /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Pods-Example-SVProgressHUD-project-headers.hmap -I/Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/include -I/Users/Max/Desktop/CINBouncyButton/Example/Pods/BuildHeaders -I/Users/Max/Desktop/CINBouncyButton/Example/Pods/BuildHeaders/SVProgressHUD -I/Users/Max/Desktop/CINBouncyButton/Example/Pods/Headers -I/Users/Max/Desktop/CINBouncyButton/Example/Pods/Headers/CINBouncyButton -I/Users/Max/Desktop/CINBouncyButton/Example/Pods/Headers/SVProgressHUD -I/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/DerivedSources/i386 -I/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/DerivedSources -F/Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SVProgressHUD-prefix-dgkmmcgdtyedtydnjqkpgymzoxwr/Pods-Example-SVProgressHUD-prefix.pch.dia -MMD -MT dependencies -MF /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SVProgressHUD-prefix-dgkmmcgdtyedtydnjqkpgymzoxwr/Pods-Example-SVProgressHUD-prefix.pch.d -c /Users/Max/Desktop/CINBouncyButton/Example/Pods/Pods-Example-SVProgressHUD-prefix.pch -o /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SVProgressHUD-prefix-dgkmmcgdtyedtydnjqkpgymzoxwr/Pods-Example-SVProgressHUD-prefix.pch.pch36"04EF27A2-0B9D-41DA-B203-CFFC8B6EBECD-
+b8242EDEF-AF9C-4F67-BD46-6BC66EA711E3
+
+CProcessPCH /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SVProgressHUD-prefix-eaekyicvjlhapxhhwpmsiklgxgpl/Pods-Example-SVProgressHUD-prefix.pch.pch Pods-Example-SVProgressHUD-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421877208.657358
+e421877209.528341
+r1
+xProcessPCH
+x/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SVProgressHUD-prefix-eaekyicvjlhapxhhwpmsiklgxgpl/Pods-Example-SVProgressHUD-prefix.pch.pch
+xPods-Example-SVProgressHUD-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Max/Desktop/CINBouncyButton/Example/Pods/Pods-Example-SVProgressHUD-prefix.pch
+d/Users/Max/Desktop/CINBouncyButton/Example/Pods/Pods-Example-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Precompile Pods-Example-SVProgressHUD-prefix.pch303"ProcessPCH /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SVProgressHUD-prefix-eaekyicvjlhapxhhwpmsiklgxgpl/Pods-Example-SVProgressHUD-prefix.pch.pch Pods-Example-SVProgressHUD-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler986ca8d85525b941^034287d95525b941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/Max/Desktop/CINBouncyButton/Example/Pods/Pods-Example-SVProgressHUD-prefix.pch0000000000000000^4186"ProcessPCH /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SVProgressHUD-prefix-eaekyicvjlhapxhhwpmsiklgxgpl/Pods-Example-SVProgressHUD-prefix.pch.pch Pods-Example-SVProgressHUD-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Max/Desktop/CINBouncyButton/Example/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Max/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Pods-Example-SVProgressHUD-generated-files.hmap -I/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Pods-Example-SVProgressHUD-own-target-headers.hmap -I/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Pods-Example-SVProgressHUD-all-target-headers.hmap -iquote /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/Pods-Example-SVProgressHUD-project-headers.hmap -I/Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/include -I/Users/Max/Desktop/CINBouncyButton/Example/Pods/BuildHeaders -I/Users/Max/Desktop/CINBouncyButton/Example/Pods/BuildHeaders/SVProgressHUD -I/Users/Max/Desktop/CINBouncyButton/Example/Pods/Headers -I/Users/Max/Desktop/CINBouncyButton/Example/Pods/Headers/CINBouncyButton -I/Users/Max/Desktop/CINBouncyButton/Example/Pods/Headers/SVProgressHUD -I/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/DerivedSources/i386 -I/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SVProgressHUD.build/DerivedSources -F/Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -w -Xanalyzer -analyzer-disable-checker --serialize-diagnostics /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SVProgressHUD-prefix-eaekyicvjlhapxhhwpmsiklgxgpl/Pods-Example-SVProgressHUD-prefix.pch.dia -MMD -MT dependencies -MF /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SVProgressHUD-prefix-eaekyicvjlhapxhhwpmsiklgxgpl/Pods-Example-SVProgressHUD-prefix.pch.d -c /Users/Max/Desktop/CINBouncyButton/Example/Pods/Pods-Example-SVProgressHUD-prefix.pch -o /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SVProgressHUD-prefix-eaekyicvjlhapxhhwpmsiklgxgpl/Pods-Example-SVProgressHUD-prefix.pch.pch36"560FB2EA-3142-4812-A47E-E99963C1C2FF-
+b8242EDEF-AF9C-4F67-BD46-6BC66EA711E3
+
+CProcessPCH /Users/Max/Library/Developer/Xcode/DerivedData/Example-aoefqvdoynkrxcccxevyraybcgvt/Index/PrecompiledHeaders/Pods-Example-SVProgressHUD-prefix-fscprbluqqnvnrgmrwmjnufrfbto_ast/Pods-Example-SVProgressHUD-prefix.pch.pch Pods-Example-SVProgressHUD-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/Max/Library/Developer/Xcode/DerivedData/Example-aoefqvdoynkrxcccxevyraybcgvt/Index/PrecompiledHeaders/Pods-Example-SVProgressHUD-prefix-hkyjdcivtgfrzlacxawfpaseqzyt_ast/Pods-Example-SVProgressHUD-prefix.pch.pch Pods-Example-SVProgressHUD-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+

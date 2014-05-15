@@ -1,0 +1,90 @@
+TExampleTests
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/ExampleTests.xctest/Info.plist /Users/Max/Desktop/CINBouncyButton/Example/ExampleTests/ExampleTests-Info.plist
+cProcessPCH /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Example-Prefix-ayhywmuhbicwukarburzefnnczel/Example-Prefix.pch.pch Example/Example-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531ED37A00000000000003B4
+t1394529146
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531ED37D000000000000019E
+t1394529149
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531ED38C0000000000000ADC
+t1394529164
+s2780
+
+N/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Example-Prefix-ayhywmuhbicwukarburzefnnczel/Example-Prefix.pch.pch
+t2
+s0
+
+N/Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/ExampleTests.xctest/Info.plist
+t2
+s0
+
+N/Users/Max/Desktop/CINBouncyButton/Example/Example/Example-Prefix.pch
+c000000005373ED420000000000000158
+t1400106306
+s344
+
+N/Users/Max/Desktop/CINBouncyButton/Example/ExampleTests/ExampleTests-Info.plist
+c000000005373ED4200000000000002B5
+t1400106306
+s693
+
+CBuild AST from /Users/Max/Desktop/CINBouncyButton/Example/ExampleTests/ExampleTests.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies21ca1bb55025b941^fc1b1cb55025b941^---0#1#1#--18"Check dependencies36"3FF21DCD-63EA-43ED-9C26-1634E49FF3B8-
+
+CCompileC Build/Intermediates/Example.build/Debug-iphonesimulator/ExampleTests.build/Objects-normal/i386/ExampleTests.o /Users/Max/Desktop/CINBouncyButton/Example/ExampleTests/ExampleTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCopyStringsFile /Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/ExampleTests.xctest/en.lproj/InfoPlist.strings ExampleTests/en.lproj/InfoPlist.strings
+r0
+
+CGenerateDSYMFile /Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/ExampleTests.xctest.dSYM /Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/ExampleTests.xctest/ExampleTests
+r0
+
+CLd /Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/ExampleTests.xctest/ExampleTests normal i386
+r0
+
+CProcessInfoPlistFile /Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/ExampleTests.xctest/Info.plist /Users/Max/Desktop/CINBouncyButton/Example/ExampleTests/ExampleTests-Info.plist
+s421875893.110291
+e421875893.111303
+r1
+xProcessInfoPlistFile
+x/Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/ExampleTests.xctest/Info.plist
+x/Users/Max/Desktop/CINBouncyButton/Example/ExampleTests/ExampleTests-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Process /Users/Max/Desktop/CINBouncyButton/Example/ExampleTests/ExampleTests-Info.plist125"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/ExampleTests.xctest/Info.plist ExampleTests/ExampleTests-Info.plist4d4b1cb55025b941^ae7e1cb55025b941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/Max/Desktop/CINBouncyButton/Example/ExampleTests/ExampleTests-Info.plist0000000000000000^737"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/ExampleTests.xctest/Info.plist ExampleTests/ExampleTests-Info.plist    cd /Users/Max/Desktop/CINBouncyButton/Example    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Max/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/MacGPG2/bin"    builtin-infoPlistUtility /Users/Max/Desktop/CINBouncyButton/Example/ExampleTests/ExampleTests-Info.plist -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/ExampleTests.xctest/Info.plist36"C2E13E37-9E80-4602-A302-D3C8B63A32A2-
+b595431DA-5A4E-404E-89BC-BEE091266486
+
+CProcessPCH /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Example-Prefix-ayhywmuhbicwukarburzefnnczel/Example-Prefix.pch.pch Example/Example-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421875893.111820
+e421875893.388377
+r1
+xProcessPCH
+x/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Example-Prefix-ayhywmuhbicwukarburzefnnczel/Example-Prefix.pch.pch
+xExample/Example-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Max/Desktop/CINBouncyButton/Example/Example/Example-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Example/Example-Prefix.pch211"ProcessPCH Build/Intermediates/PrecompiledHeaders/Example-Prefix-ayhywmuhbicwukarburzefnnczel/Example-Prefix.pch.pch Example/Example-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf6b31cb55025b941^016d63b55025b941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/Max/Desktop/CINBouncyButton/Example/Example/Example-Prefix.pch0000000000000000^3926"ProcessPCH Build/Intermediates/PrecompiledHeaders/Example-Prefix-ayhywmuhbicwukarburzefnnczel/Example-Prefix.pch.pch Example/Example-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Max/Desktop/CINBouncyButton/Example    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Max/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/MacGPG2/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Max/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/ExampleTests.build/ExampleTests-generated-files.hmap -I/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/ExampleTests.build/ExampleTests-own-target-headers.hmap -I/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/ExampleTests.build/ExampleTests-all-target-headers.hmap -iquote /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/ExampleTests.build/ExampleTests-project-headers.hmap -I/Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/ExampleTests.build/DerivedSources/i386 -I/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/ExampleTests.build/DerivedSources -F/Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks --serialize-diagnostics /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Example-Prefix-ayhywmuhbicwukarburzefnnczel/Example-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Example-Prefix-ayhywmuhbicwukarburzefnnczel/Example-Prefix.pch.d -c /Users/Max/Desktop/CINBouncyButton/Example/Example/Example-Prefix.pch -o /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/PrecompiledHeaders/Example-Prefix-ayhywmuhbicwukarburzefnnczel/Example-Prefix.pch.pch36"16C34C9F-F97A-4400-8816-9CEE5C7F883A-
+b595431DA-5A4E-404E-89BC-BEE091266486
+
+CProcessPCH /Users/Max/Library/Developer/Xcode/DerivedData/Example-aoefqvdoynkrxcccxevyraybcgvt/Index/PrecompiledHeaders/Example-Prefix-domhgmqbujgmoqdxjaucgyhmuegj_ast/Example-Prefix.pch.pch Example/Example-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/ExampleTests.xctest
+r0
+
