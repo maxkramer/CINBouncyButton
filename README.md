@@ -32,7 +32,11 @@ Import the header, instantiate an instance of `CINBouncyButton`, add it as a sub
     [super viewDidLoad];
 }
 @end
-```    
+``` 
+
+#Example Project
+
+Make sure that you run `pod install` before attempting to build and run the project. 
 
 Tacky Gif (Please see video instead!):
 
