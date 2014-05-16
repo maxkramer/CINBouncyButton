@@ -31,31 +31,31 @@ t1394529164
 s2780
 
 N/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example.build/Objects-normal/i386/Pods-Example-dummy.o
-t1400184409
+t1400184646
 s3176
 
 N/Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example.build/Objects-normal/i386/Pods-Example.LinkFileList
-c0000000053751789000000000000009C
-t1400182665
+c0000000053751F46000000000000009C
+t1400184646
 s156
 
 N/Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/libPods-Example-CINBouncyButton.a
-c0000000053751E580000000000012DD0
-t1400184408
+c0000000053768FDD0000000000012DD0
+t1400279005
 s77264
 
 N/Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/libPods-Example-SVProgressHUD.a
-c0000000053751E5900000000000291C0
-t1400184409
+c0000000053768FDD00000000000291C0
+t1400279005
 s168384
 
 N/Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/libPods-Example.a
-t1400184409
+t1400184646
 s248904
 
 N/Users/Max/Desktop/CINBouncyButton/Example/Pods/Pods-Example-dummy.m
-c0000000053751DCE0000000000000080
-t1400184270
+c0000000053751F460000000000000080
+t1400184646
 s128
 
 CBuild AST from /Users/Max/Desktop/CINBouncyButton/Example/Pods/Pods-Example-dummy.m
@@ -63,7 +63,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies02ba8b8c5625b941^fed58b8c5625b941^---0#1#1#--18"Check dependencies36"6F404A98-D580-4308-9065-A634D19DDE1F-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesabaeef5dc726b941^89eef15dc726b941^---0#1#1#--18"Check dependencies36"824310C2-FDBB-4C45-8E2F-777D16DB7342-
 
 CCompileC /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example.build/Objects-normal/i386/Pods-Example-dummy.o /Users/Max/Desktop/CINBouncyButton/Example/Pods/Pods-Example-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s421877209.677618
@@ -81,13 +81,13 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile
 bA15189FE-BD31-4DFB-AF81-FBA8135FDDF6
 
 CLibtool /Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/libPods-Example.a normal i386
-s421877209.796381
-e421877209.806890
+s421971805.946383
+e421971805.963199
 r1
 xLibtool
 x/Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/libPods-Example.a
 xnormal
 xi386
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Libtool /Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/libPods-Example.a normal i386117"Libtool /Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/libPods-Example.a normal i386bbeccbd95525b941^bc90ced95525b941^---0#0#1#--1097"Libtool /Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/libPods-Example.a normal i386    cd /Users/Max/Desktop/CINBouncyButton/Example/Pods    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator -filelist /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example.build/Objects-normal/i386/Pods-Example.LinkFileList -framework Foundation -lPods-Example-CINBouncyButton -lPods-Example-SVProgressHUD -o /Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/libPods-Example.a36"38969939-9BEA-4F51-B499-5F3C680C145E-
-bA15189FE-BD31-4DFB-AF81-FBA8135FDDF6
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Libtool /Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/libPods-Example.a normal i386117"Libtool /Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/libPods-Example.a normal i3866d59f25dc726b941^c496f65dc726b941^---0#0#1#--1097"Libtool /Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/libPods-Example.a normal i386    cd /Users/Max/Desktop/CINBouncyButton/Example/Pods    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator -filelist /Users/Max/Desktop/CINBouncyButton/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example.build/Objects-normal/i386/Pods-Example.LinkFileList -framework Foundation -lPods-Example-CINBouncyButton -lPods-Example-SVProgressHUD -o /Users/Max/Desktop/CINBouncyButton/Example/Build/Products/Debug-iphonesimulator/libPods-Example.a36"D567E4F7-0B28-4D63-9535-66641382E73B-
+bD89AA337-4C70-4F2D-A8AE-CF1AE820EC01
 
