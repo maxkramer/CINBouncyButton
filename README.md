@@ -5,6 +5,8 @@ UIButton, but bouncier and capable for use with your own icons and attributed te
 
 Video of what she looks like in action can be found [here!](https://github.com/MaxKramer/CINBouncyButton/blob/master/BouncyButton.mp4?raw=true)
 
+![Screenshot of the button](http://cl.ly/image/3R2h3z2P1A0g/Screen%20Shot%202014-05-16%20at%2023.23.58.png)
+
 #Installation
 ##Cocoapods
 
