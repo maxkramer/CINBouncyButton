@@ -20,24 +20,24 @@
     
     CINBouncyButton *twitterButton = [[CINBouncyButton alloc] initWithFrame:CGRectMake(padding.x, padding.y, buttonSize.width, buttonSize.height) image:[UIImage imageNamed:@"icon_twitter"] andTitle:[[NSAttributedString alloc] initWithString:@"Connect on Twitter!" attributes:@{NSForegroundColorAttributeName : [UIColor whiteColor]}]];
     [twitterButton setBackgroundColor:UIColorFromRGB(0x55ACEE)];
-    [twitterButton addTarget:self action:@selector(tappedButton:) forControlEvents:UIControlEventTouchDown];
+    [twitterButton addTarget:self action:@selector(tappedButton:) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:twitterButton];
     
     CINBouncyButton *facebookButton = [[CINBouncyButton alloc] initWithFrame:CGRectMake(padding.x, padding.y + CGRectGetMaxY(twitterButton.frame), buttonSize.width, buttonSize.height) image:[UIImage imageNamed:@"icon_facebook"] andTitle:[[NSAttributedString alloc] initWithString:@"Login via Facebook!" attributes:@{NSForegroundColorAttributeName : [UIColor whiteColor]}]];
     [facebookButton setBackgroundColor:UIColorFromRGB(0x3B5999)];
-    [facebookButton addTarget:self action:@selector(tappedButton:) forControlEvents:UIControlEventTouchDown];
+    [facebookButton addTarget:self action:@selector(tappedButton:) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:facebookButton];
     
     CINBouncyButton *anchorButton = [[CINBouncyButton alloc] initWithFrame:CGRectMake(padding.x, padding.y + CGRectGetMaxY(facebookButton.frame), buttonSize.width, buttonSize.height) image:[[UIImage imageNamed:@"01-anchor"] imageWithRenderingMode:UIImageRenderingModeAlwaysTemplate] andTitle:[[NSAttributedString alloc] initWithString:@"Sail - Awolnation?" attributes:@{NSForegroundColorAttributeName : [UIColor whiteColor]}]];
     [anchorButton setBackgroundColor:UIColorFromRGB(0xAABBCC)];
     [anchorButton setTintColor:[UIColor whiteColor]];
-    [anchorButton addTarget:self action:@selector(tappedButton:) forControlEvents:UIControlEventTouchDown];
+    [anchorButton addTarget:self action:@selector(tappedButton:) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:anchorButton];
     
     CINBouncyButton *refreshButton = [[CINBouncyButton alloc] initWithFrame:CGRectMake(padding.x, padding.y + CGRectGetMaxY(anchorButton.frame), buttonSize.width, buttonSize.height) image:[[UIImage imageNamed:@"01-refresh"] imageWithRenderingMode:UIImageRenderingModeAlwaysTemplate] andTitle:[[NSAttributedString alloc] initWithString:@"Refresh" attributes:@{NSForegroundColorAttributeName : [UIColor lightGrayColor]}]];
-    [refreshButton setBackgroundColor:UIColorFromRGB(0xEEEEEE)];
+//    [refreshButton setBackgroundColor:UIColorFromRGB(0xEEEEEE)];
     [refreshButton setTintColor:[UIColor lightGrayColor]];
-    [refreshButton addTarget:self action:@selector(tappedButton:) forControlEvents:UIControlEventTouchDown];
+    [refreshButton addTarget:self action:@selector(tappedButton:) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:refreshButton];
     [super viewDidLoad];
 }

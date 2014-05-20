@@ -29,6 +29,7 @@
         self.title = title;
         self.layer.masksToBounds = YES;
         self.layer.cornerRadius = 5.0f;
+        self.backgroundColor = [UIColor whiteColor];
         [self initialiseSubviews];
     }
     return self;
@@ -131,7 +132,7 @@
         alpha += 0.2f;
     }
     [UIView animateWithDuration:0.25 animations:^{
-       [self setBackgroundColor:[UIColor colorWithRed:red green:green blue:blue alpha:alpha]];
+        [self setBackgroundColor:[UIColor colorWithRed:red green:green blue:blue alpha:alpha]];
     }];
 }
 
@@ -146,11 +147,7 @@
 - (void)touchesEnded:(NSSet *)touches withEvent:(UIEvent *)event {
     [self increaseBackgroundOpacity];
     [self enlargeView];
-    [self performSelector:@selector(delayedSendActions:) withObject:@[touches, event] afterDelay:0.25f];
-}
-
-- (void)delayedSendActions:(NSArray *)params {
-    [super touchesEnded:params[0] withEvent:params[1]];
+    [super touchesEnded:touches withEvent:event];
 }
 
 @end
