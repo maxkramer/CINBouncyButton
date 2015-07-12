@@ -12,6 +12,7 @@
 
 @property (nonatomic, strong) UILabel *titleLabel;
 @property (nonatomic, strong) UIImageView *imageView;
+@property (nonatomic) CGFloat originalOpacity;
 
 @end
 
@@ -69,6 +70,15 @@
     }
 }
 
+- (void)setBackgroundColor:(UIColor *)backgroundColor {
+    [super setBackgroundColor:backgroundColor];
+    
+    CGFloat alpha;
+    [backgroundColor getRed:nil green:nil blue:nil alpha:&alpha];
+    
+    self.originalOpacity = alpha;
+}
+
 #pragma mark - Content Layout
 
 - (void)initialiseSubviews {
@@ -114,12 +124,12 @@
     UIColor *backgroundColor = self.backgroundColor;
     if (![backgroundColor isEqual:[UIColor clearColor]]) {
         CGFloat red, green, blue, alpha;
-        [backgroundColor getRed:&red green:&green blue:&blue alpha:&alpha];
-        if (alpha >= 0.8f) {
-            alpha -= 0.2f;
-        }
+        [backgroundColor getRed:&red green:&green blue:&blue alpha:nil];
+        
+        alpha = self.originalOpacity - 0.2;
+        
         [UIView animateWithDuration:0.25 animations:^{
-            [self setBackgroundColor:[UIColor colorWithRed:red green:green blue:blue alpha:alpha]];
+            [super setBackgroundColor:[UIColor colorWithRed:red green:green blue:blue alpha:alpha]];
         }];
     }
 }
@@ -127,12 +137,12 @@
 - (void)increaseBackgroundOpacity {
     UIColor *backgroundColor = self.backgroundColor;
     CGFloat red, green, blue, alpha;
-    [backgroundColor getRed:&red green:&green blue:&blue alpha:&alpha];
-    if (alpha <= 0.8f) {
-        alpha += 0.2f;
-    }
+    [backgroundColor getRed:&red green:&green blue:&blue alpha:nil];
+    
+    alpha = self.originalOpacity;
+    
     [UIView animateWithDuration:0.25 animations:^{
-        [self setBackgroundColor:[UIColor colorWithRed:red green:green blue:blue alpha:alpha]];
+        [super setBackgroundColor:[UIColor colorWithRed:red green:green blue:blue alpha:alpha]];
     }];
 }
 
@@ -151,3 +161,4 @@
 }
 
 @end
+
